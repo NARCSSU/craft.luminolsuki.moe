@@ -7,11 +7,7 @@
 ![Vite](https://img.shields.io/badge/Vite-7.2.4-646cff?style=flat-square&logo=vite)
 ![License](https://img.shields.io/badge/License-AGPL_v3-blue?style=flat-square)
 
-[English](README.en.md) | [简体中文](README.zh-CN.md)
-
 </div>
-
----
 
 LuminolCraft is the official website of the LuminolMC-affiliated Minecraft server, a modern Single Page Application (SPA) built with Vue 3. The website provides server status monitoring, news, server rules, support information, and more, with multi-language support and responsive design.
 
